@@ -1,0 +1,17 @@
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.exe.config
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.exe
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.pdb
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.csprojResolveAssemblyReference.cache
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.csproj.CoreCompileInputs.cache
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.exe
+C:\Users\jacques\source\repos\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.pdb
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.exe.config
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.exe
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.pdb
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.csprojResolveAssemblyReference.cache
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.csproj.CoreCompileInputs.cache
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.exe
+C:\Users\1503570\Desktop\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.pdb
+U:\Partage\[DL]\Correction compteBancaire\ComptesBancaires\ComptesBancaires\bin\Debug\ComptesBancaires.exe.config
+U:\Partage\[DL]\Correction compteBancaire\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.exe
+U:\Partage\[DL]\Correction compteBancaire\ComptesBancaires\ComptesBancaires\obj\Debug\ComptesBancaires.pdb
